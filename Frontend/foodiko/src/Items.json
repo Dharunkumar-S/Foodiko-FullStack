@@ -1,0 +1,512 @@
+  [
+    {
+      "id": 1,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/35f/a102931c19e9e249ba593100f355435f.jpg",
+      "name": "Idli",
+      "price": "10",
+      "rating": "4.5",
+      "time": "Breakfast , Dinner",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/771/90157ca6bfe6ab7629870a1212a5e771.jpg?output-format=webp",
+      "name": "Dosa",
+      "price": "20",
+      "rating": "4.6",
+      "time": "Breakfast , Dinner",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/13d/59dfd9c0d84de059089fd198c0c1313d.jpg",
+      "name": "Poori",
+      "price": "35",
+      "rating": "4.4",
+      "time": "Breakfast",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/7f6/83a3936770e4f3fedd501dec104d17f6.jpg?output-format=webp",
+      "name": "Pongal",
+      "price": "35",
+      "rating": "4.5",
+      "time": "Breakfast",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/fab/f272cd8a6690008778edf1ee0929dfab.jpg",
+      "name": "Vada",
+      "price": "15",
+      "rating": "4.7",
+      "time": "Breakfast , Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/3/19453013/7a334af2a8fc631b9112b9f24277dc79_featured_v2.jpg",
+      "name": "Aappam",
+      "price": "35",
+      "rating": "4.4",
+      "time": "Breakfast",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "imgsrc": "https://vaya.in/recipes/wp-content/uploads/2019/01/Rice-Puttu.jpg",
+      "name": "Puttu",
+      "price": "50",
+      "rating": "4.4",
+      "time": "Breakfast",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/090/4f09ac0bceb6f02c051d19cb3cab7090.jpg",
+      "name": "Rava Dosa",
+      "price": "45",
+      "rating": "4.4",
+      "time": "Breakfast",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/5cd/ad81f828a25eb594dfa20049128ae5cd.jpg",
+      "name": "Upma",
+      "price": "35",
+      "rating": "4.4",
+      "time": "Breakfast",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/6/18280346/40d155cf25922615c147311a06712e23.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "name": "Tea",
+      "price": "15",
+      "rating": "4.4",
+      "time": "Breakfast , Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/7/20095047/8a80a177b04c22d2c19c8a0ecaadefc9.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "name": "Coffee",
+      "price": "20",
+      "rating": "4.6",
+      "time": "Breakfast , Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/a23/5a1034a8a2e6ac2ee2d9509b21470a23.jpg",
+      "name": "Chicken Briyani",
+      "price": "90",
+      "rating": "4.5",
+      "time": "Lunch",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/eac/6492a7aa03c0b4ff7c9f55c9e53a3eac.jpg",
+      "name": "Dum Briyani",
+      "price": "100",
+      "rating": "4.4",
+      "time": "Lunch",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/782/6194f44c3caa03d24e81493a04fbb782.jpg?output-format=webp",
+      "name": "Veg meals",
+      "price": "80",
+      "rating": "4.8",
+      "time": "Lunch",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/90a/910f524a8586b1e367f01fa539a0d90a.png",
+      "name": "Non-veg meals",
+      "price": "100",
+      "rating": "4.9",
+      "time": "Lunch",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/02a/4706337c97cb542458c686833a8bf02a.jpg?output-format=webp",
+      "name": "Parotta",
+      "price": "20",
+      "rating": "4.3",
+      "time": "Lunch , Dinner",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/a97/264213a905023f506d5bb5672a9f9a97.jpg",
+      "name": "Pulao",
+      "price": "60",
+      "rating": "4.5",
+      "time": "Lunch",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/8a5/3e64b6518b447751616c83f01da228a5.jpg",
+      "name": "Veg fried rice",
+      "price": "80",
+      "rating": "4.6",
+      "time": "Lunch , Dinner",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/a8c/f13f1fe3c28b1d9d03fdb00ea0b78a8c.jpg",
+      "name": "Veg Noodles",
+      "price": "80",
+      "rating": "4.5",
+      "time": "Lunch , Dinner",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/5af/c1b43beb56291d0a3611d26f9d0d15af.jpg",
+      "name": "Chicken fried rice",
+      "price": "90",
+      "rating": "4.6",
+      "time": "Lunch , Dinner",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/a63/b4234b267ad7f5e4594c63182a3eda63.jpg",
+      "name": "Chicken Noodles",
+      "price": "90",
+      "rating": "4.7",
+      "time": "Lunch , Dinner",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 22,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/52d/b952d168d6b66395a14e37d72278452d.jpg?output-format=webp",
+      "name": "Naan",
+      "price": "50",
+      "rating": "4.5",
+      "time": "Lunch , Dinner",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 23,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/e93/37842a91cc48efe7d4d5aabb657b9e93.jpg?output-format=webp",
+      "name": "Paneer butter masala",
+      "price": "70",
+      "rating": "4.7",
+      "time": "Lunch , Dinner",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 24,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/57a/7b65a8dcb198e4cd3dbad0a3bcc8a57a.jpg",
+      "name": "Chicken tandoori",
+      "price": "450",
+      "rating": "4.6",
+      "time": "Lunch , Dinner",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 25,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/afd/10a09b1a8546f65b3c8a2582e4643afd.jpg",
+      "name": "Paneer tikka",
+      "price": "80",
+      "rating": "4.4",
+      "time": "Lunch , Dinner",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/87a/63d52411a35b21137332ab017ff8087a.jpg?output-format=webp",
+      "name": "Butter Chicken",
+      "price": "80",
+      "rating": "4.5",
+      "time": "Lunch , Dinner",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 27,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/ffa/9ff8091ba81b16b3dc72ada966ca2ffa.jpg?output-format=webp",
+      "name": "Curd rice",
+      "price": "35",
+      "rating": "4.5",
+      "time": "Lunch",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 28,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/f6c/b0d4dc046b2967caa71908ae4e3a5f6c.jpg?output-format=webp",
+      "name": "Fried Chicken",
+      "price": "80",
+      "rating": "4.5",
+      "time": "Lunch , Dinner , Snacks & Drinks",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 29,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/chains/7/3000747/50a2aadc9ea504c6dafadb69b74631fa_o2_featured_v2.jpg?output-format=webp",
+      "name": "veg manchurian",
+      "price": "75",
+      "rating": "4.6",
+      "time": "Dinner , Lunch",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 30,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/415/2fcc18527f29d4684097ebfeab75c415.jpg?output-format=webp",
+      "name": "chicken manchurian",
+      "price": "85",
+      "rating": "4.4",
+      "time": "Dinner , Lunch",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 31,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/2dc/e6654a901cc6ac0804b5e3e200ae22dc.jpg",
+      "name": "Chapati",
+      "price": "20",
+      "rating": "4.4",
+      "time": "Breakfast , Lunch , Dinner",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 32,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/a7e/4e894134443c7d1f70f5472fa01d7a7e.png",
+      "name": "chicken nuggets",
+      "price": "60",
+      "rating": "4.6",
+      "time": "Snacks & Drinks",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 33,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/10e/ba0e8cabf3691adb557adaa8be72d10e.jpg?output-format=webp",
+      "name": "Samosa",
+      "price": "10",
+      "rating": "4.7",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 34,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/38d/76091e2892d43ac6fad586245f8f638d.jpg?output-format=webp",
+      "name": "Pav bhaji",
+      "price": "40",
+      "rating": "4.5",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 35,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/09f/50a0a2b74a57108df8e9085b418ff09f.jpg",
+      "name": "Dahi puri",
+      "price": "35",
+      "rating": "4.4",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 36,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/b56/f0e96b058d28633f9c33c5cb1f567b56.png",
+      "name": "Masala puri",
+      "price": "30",
+      "rating": "4.2",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 37,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/29d/d80629de817aedef44a2bc0e0608429d.png",
+      "name": "pani puri",
+      "price": "30",
+      "rating": "4.5",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 38,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/chains/8/19295818/c13c857226a87251352b7bc7b5749cfa_o2_featured_v2.jpg",
+      "name": "Vada pav",
+      "price": "35",
+      "rating": "4.6",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 39,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/5/19156175/469fbb784da5c58d42ec82f6b277b54b_o2_featured_v2.jpg",
+      "name": "veg sandwich",
+      "price": "60",
+      "rating": "4.7",
+      "time": "Snacks & Drinks",
+      "dish": "veg_",
+      "quantity": 1
+    },
+    {
+      "id": 40,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/40d/ac52266e070d608742aca0933f5b640d.jpg",
+      "name": "Chicken sandwich",
+      "price": "75",
+      "rating": "4.5",
+      "time": "Snacks & Drinks",
+      "dish": "non veg",
+      "quantity": 1
+    },
+    {
+      "id": 41,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/af0/0bb1383a0fc588294a6009875b0e0af0.jpg?output-format=webp",
+      "name": "Vanilla Shake",
+      "price": "50",
+      "rating": "4.5",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 42,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/5/19207005/7d6374823ac2c210dfc8641df820d9e4_o2_featured_v2.jpg?output-format=webp",
+      "name": "Straberry Shake",
+      "price": "50",
+      "rating": "4.7",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 43,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/125/4095e61b6d5988c90bc408634f4a3125.jpg",
+      "name": "Mango Shake",
+      "price": "50",
+      "rating": "4.3",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 44,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/0f6/d75c03bda28f797e6553261a359600f6.jpg",
+      "name": "Chocolate Shake",
+      "price": "50",
+      "rating": "4.4",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 45,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/1/19060221/ec18634623075b2ce519c3cae1ef331e_o2_featured_v2.jpg",
+      "name": "Oreo Shake",
+      "price": "50",
+      "rating": "4.5",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 46,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/f11/88ecf46df6f9edfb5857fb2556c4af11.jpg?output-format=webp",
+      "name": "coke",
+      "price": "30",
+      "rating": "4.1",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 47,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/bed/9ef3d90e7dd156e960f97027c548dbed.jpg?output-format=webp",
+      "name": "pepsi",
+      "price": "30",
+      "rating": "4.2",
+      "time": "Snacks & Drinks",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 48,
+      "imgsrc": "https://b.zmtcdn.com/data/pictures/8/3001498/6059bcc8fe410a8e10aa9d2455cc821c_o2_featured_v2.jpg",
+      "name": "kulfi",
+      "price": "35",
+      "rating": "4.5",
+      "time": "Ice Creams",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 49,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/ddf/42736b4f91e7c0a08fb078bcf3703ddf.png",
+      "name": "brownie & icecream",
+      "price": "70",
+      "rating": "4.8",
+      "time": "Ice Creams",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 50,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/11b/4520a81893914715df60e645cdeb211b.jpg?output-format=webp",
+      "name": "Special sundae",
+      "price": "60",
+      "rating": "4.3",
+      "time": "Ice Creams",
+      "dish": "__",
+      "quantity": 1
+    },
+    {
+      "id": 51,
+      "imgsrc": "https://b.zmtcdn.com/data/dish_photos/6cf/e2c6447480a4a3f4d46cf57a38f7e6cf.jpg?output-format=webp",
+      "name": "Falooda",
+      "price": "65",
+      "rating": "4.5",
+      "time": "Ice Creams",
+      "dish": "__",
+      "quantity": 1
+    }
+  ]
